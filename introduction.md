@@ -1,3 +1,26 @@
+# INTRODUCTION
+
+1. [Application Architectures](#application-architectures)
+   - [Client-server Architecture](#client-server-architecture)
+   - [P2P Architecture](#p2p-architecture)
+2. [Types of Networks](#types-of-networks)
+   - [1. Personal Area Network (PAN)](#1-personal-area-network-pan)
+   - [2. Local Area Network (LAN)](#2-local-area-network-lan)
+   - [3. Metropolitan Area Network (MAN)](#3-metropolitan-area-network-man)
+   - [4. Wide Area Network (WAN)](#4-wide-area-network-wan)
+3. [Network Software](#network-software)
+   - [Transference of Information](#transference-of-information)
+4. [Internet (TCP/IP) Reference Model](#internet-tcpip-reference-model)
+   - [1. Application Layer](#1-application-layer)
+   - [2. Transport Layer](#2-transport-layer)
+   - [3. Internet Layer](#3-internet-layer)
+   - [4. Link Layer](#4-link-layer)
+   - [Key Features of the TCP/IP Model](#key-features-of-the-tcpip-model)
+5. [Circuit Switching, Packet Switching](#circuit-switching-packet-switching)
+   - [Circuit Switching (Cálculos)](#circuit-switching-calculos)
+   - [Packet Switching (Cálculos)](#packet-switching-calculos)
+
+
 # Application Architectures
 
 ## Client-server Architecture
