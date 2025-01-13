@@ -89,7 +89,7 @@ The Internet's TCP/IP reference model is a conceptual framework used to understa
   - **FTP**: File transfer.
   - **DNS**: Domain name resolution.
 
----
+
 
 ### 2. Transport Layer
 - **Purpose**: Provides end-to-end communication and error recovery.
@@ -184,6 +184,7 @@ This reference model forms the backbone of the modern Internet, enabling devices
     what is the end-to-end packet delay?
     ```
     ![alt text](images/intro_images/image-5.png)
+    
 - **Dados:** 
     - `L=10 kbit`
     - `T_prop~0`
