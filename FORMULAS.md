@@ -23,6 +23,20 @@
 
 
 # [DATA LINK LAYER](3-data-link-layer.md)
+
+## [BER - BIR ERROR RATE]()
+- `BER = Number of Erroneous Bits \ Total Number of Transmitted Bits`
+
+## [Frame has no errors]()
+- `P[frame has no errors] = (1 - BER)^n`
+
+## [FER - FRAME ERROR RATE]()
+![alt text](image-5.png)
+- `FER = P[frame has errors] = 1 - (1 - BER)^n`
+
+- `FER = P[frame has errors] = 1 - (1 - p)^n` - p = probability
+
+
 # [DELAY MODELS](4-delay-models.md)
 # [MAC SUBLAYER](5-mac-sublayer.md)
 # [NETWORK LAYER](6-network-layer.md)
